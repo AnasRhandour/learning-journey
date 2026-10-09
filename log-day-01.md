@@ -11,3 +11,6 @@
 ## Next
 - VLOOKUP / XLOOKUP
 - Pivot tables
+## Results
+- Practiced absolute vs relative references
+- Learned: $ locks a cell when dragging; without it, references slide
