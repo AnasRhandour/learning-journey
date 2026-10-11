@@ -2,7 +2,7 @@
 
 Tracking my path into data & coding.
 
-**Started:** [today's date]
+**Started:** 9/10/2026
 **Goal:** Build real skills + a public portfolio of learning projects
 
 ## Roadmap
