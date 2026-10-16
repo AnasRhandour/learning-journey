@@ -20,5 +20,5 @@
 - Then NumPy + Pandas
 
 ## Notes
-- Missed days 12–13 due to personal situation
+- Missed days 2 due to personal situation
 - Back on track
